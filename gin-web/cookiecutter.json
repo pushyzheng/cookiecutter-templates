@@ -1,0 +1,6 @@
+{
+  "project_name": "gin-web-demo",
+  "_copy_without_render": [
+    "*.tmpl"
+  ]
+}
